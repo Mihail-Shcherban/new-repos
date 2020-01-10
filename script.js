@@ -1,3 +1,3 @@
-$(document).ready(function function_name(argument) {
-	// body...
+$(document).ready(function() {
+	console.log('test');
 });
